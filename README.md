@@ -53,11 +53,5 @@ Ce repository présente une étude complète de l’architecture NVIDIA Tesla, p
 <strong>Encadrant :</strong> Mr. H. SAADI
 </p>
 
-<h2 style="color:purple;font-weight:bold;text-decoration: underline;">Liens utiles</h2>
-<ul style="color:#228B22;font-weight:bold;">
-  <li><a href="https://developer.nvidia.com/cuda-toolkit">CUDA Toolkit – NVIDIA</a></li>
-  <li><a href="https://www.nvidia.com/en-us/data-center/tesla-gpu-accelerators/">Présentation NVIDIA Tesla G80</a></li>
-</ul>
-
 <hr style="color:#d46a92;">
 <p style="color:#228B22;font-weight:bold;">✓ Étude détaillée de l’architecture GPU Tesla, son impact sur le HPC, le calcul scientifique et l’IA.</p>
