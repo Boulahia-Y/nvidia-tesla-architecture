@@ -3,8 +3,6 @@
 <h5 style="color:#d46a92; font-weight:bold;">Module : Programmation Multi-Cœurs .</h5>
 <h5 style="color:#d46a92; font-weight:bold;">Master 2 : HPC .</h5>
 <h5 style="color:#d46a92; font-weight:bold;">Année universitaire : 2025/2026 .</h5>
-<h5 style="color:purple; font-weight:bold;text-decoration: underline;">Étudiante : BOULAHIA Yasmine .</h5>
-
 <hr style="color:#d46a92;">
 
 <h1 style="color:#d46a92;font-weight:bold;">Étude et Analyse de l'Architecture NVIDIA Tesla (G80, 2007)</h1>
@@ -51,7 +49,7 @@ Ce repository présente une étude complète de l’architecture NVIDIA Tesla, p
 <h2 style="color:purple;font-weight:bold;text-decoration: underline;">Auteur et Encadrement</h2>
 <p style="color:#228B22;font-weight:bold;">
 <strong>Étudiante :</strong> BOULAHIA Yasmine <br>
-<strong>Collaborateurs :</strong> ZERKOUK K Haoula, SAIDANI Cerine <br>
+<strong>Collaborateurs :</strong> ZERKOUK Khaoula, SAIDANI Cerine <br>
 <strong>Encadrant :</strong> Mr. H. SAADI
 </p>
 
